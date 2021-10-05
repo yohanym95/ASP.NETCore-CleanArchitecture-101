@@ -1,0 +1,14 @@
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Core.dll
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Infrastructure.dll
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.csprojAssemblyReference.cache
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.AssemblyInfoInputs.cache
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.AssemblyInfo.cs
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Application.deps.json
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Application.dll
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Application.pdb
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Infrastructure.pdb
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\bin\Debug\netcoreapp3.1\Employee.Core.pdb
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.csproj.CopyComplete
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.dll
+C:\Users\Yohan Malshika\source\repos\EmployeeManagementCleanArchitecture\Employee.Application\obj\Debug\netcoreapp3.1\Employee.Application.pdb
